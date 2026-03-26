@@ -7,6 +7,7 @@
 ⚾ Collegiate baseball athlete  
 
 <h3>💻 Programming Languages</h3>
+
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
@@ -16,6 +17,7 @@
 ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB)
 
 <h3>🔧 Tools</h3>
+
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
@@ -23,6 +25,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)
 
 <h3>🖥️ Operating Systems</h3>
+
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white)
 
