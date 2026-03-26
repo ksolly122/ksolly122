@@ -29,10 +29,6 @@
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white)
 
-<h3>🚀 Projects</h3>
-- Multi-threaded C server/client for text-based MMORPG gameplay  
-- Cross-platform mobile app (React + Ionic + Firebase) for baseball analytics  
-- Finance management app with UI + testing implementation  
 
 <h3>⚡ About Me</h3>
 I enjoy building real-world applications and working on projects that combine performance, problem-solving, and teamwork. My background in athletics has shaped how I approach discipline, consistency, and working in team environments.
