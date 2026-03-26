@@ -1,13 +1,8 @@
 # 👋 Hey, I'm Kolby  
 
 <h3>🤔 About Me</h3>
-📝 Computer Science & Cybersecurity student (Minor in Mathematics)  
 
-🎓 Lewis-Clark State College  
-
-💻 Interested in systems programming, cybersecurity, and full-stack development  
-
-⚾ Collegiate baseball athlete  
+📝 Computer Science & Cybersecurity student (Minor in Mathematics) |🎓 Lewis-Clark State College | 💻 Interested in systems programming, cybersecurity, and full-stack development | ⚾ Collegiate baseball athlete  
 
 <h3>💻 Programming Languages</h3>
 
