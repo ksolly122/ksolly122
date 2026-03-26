@@ -13,6 +13,8 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB)
+![Verilog](https://img.shields.io/badge/Verilog-purple)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 
 <h3>🔧 Tools</h3>
 
